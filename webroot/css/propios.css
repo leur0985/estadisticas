@@ -1,0 +1,94 @@
+
+#contenedor
+{
+	margin-top: 10em;
+	width: 100%;
+	height: auto;
+	text-align: center;
+}
+
+
+
+.table img
+{
+	width: 60px;
+	height: 60px;
+}
+
+#equiposescudo img
+{
+	width: 200px;
+	height: 200px;
+}
+.pa
+{
+	font-size: 10px;
+}
+.tablep 
+{
+	text-align: right;
+
+
+}
+.table > tbody > tr > td
+{
+	
+  vertical-align: middle;
+  padding: 0;
+  margin-left: 0px;
+}
+.ui-datepicker
+{
+width: auto;
+background: white;
+}
+
+/*Cabecera */
+.ui-datepicker .ui-datepicker-header
+{
+font-size: 12px;
+background: #58ACFA;
+}
+
+/*Para los días de la semana: Sa Mo ... */
+.ui-datepicker th
+{
+color: black;
+}
+
+/*Para items con los días del mes por defecto */
+.ui-datepicker .ui-state-default
+{
+background: #FFFFFF;
+}
+
+/*Para el item del día del mes seleccionado */
+.ui-datepicker .ui-state-active
+{
+background: orange;
+color: #FFFFFF;
+}
+.hora
+{
+	
+	
+	background-image: url('../img/reloj.png'); 
+	width: 10px;
+	
+
+}
+.hora > img
+{
+	width: 15px;
+	height: 15px;
+}
+
+.estadio
+{
+
+}
+.estadio > img
+{
+	width: 30px;
+	height: 30px;
+}
